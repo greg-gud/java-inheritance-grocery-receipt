@@ -1,0 +1,4 @@
+author: Gregory Guditus
+
+This java program is an example of inheritance in object-oriented programming. 
+The output is an example of a grocery receipt. 
